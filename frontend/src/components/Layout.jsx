@@ -1,5 +1,5 @@
 import React, { Children } from 'react'
-import SideBar from './SideBAr'
+import SideBar from './SideBar'
 import Navbar from './Navbar'
 
 const Layout = ({children,showSideBar = false}) => {
